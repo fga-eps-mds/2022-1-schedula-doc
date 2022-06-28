@@ -1,4 +1,4 @@
-# Initial topic
+# Home
 
 ## Hi!
 
