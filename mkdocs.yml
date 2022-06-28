@@ -1,3 +1,13 @@
 site_name: Projeto agenda
+
 theme:
   name: material
+
+nav:
+  - Home: 'index.md'
+  - "Lean Inception":
+    - 'Foo': 'Lean Inception/Foo.md'
+  - About: 'about.md'
+
+extra_css:
+  - "styles/header.css"

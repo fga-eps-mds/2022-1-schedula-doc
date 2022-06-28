@@ -1,0 +1,21 @@
+.md-header {
+  background: rgb(5,58,105);
+  background: linear-gradient(328deg, rgba(5,58,105,1) 0%, rgba(0,143,129,1) 100%);
+}
+
+.md-header {
+  background-size: 400% 400%;
+  animation: gradientAnimation 10s ease infinite;
+}
+
+@keyframes gradientAnimation {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
