@@ -1,3 +1,10 @@
 site_name: Projeto agenda
 theme:
   name: material
+
+nav:
+  - Home: 'index.md'
+  - Topic:
+    - 'T1': 'Topic 1/T1.1.md'
+
+  - About: 'about.md'
