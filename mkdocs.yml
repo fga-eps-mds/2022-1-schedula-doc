@@ -7,7 +7,12 @@ nav:
   - Home: 'index.md'
   - "Lean Inception":
     - 'Foo': 'Lean Inception/Foo.md'
-  - About: 'about.md'
+  - Sobre: 'about.md'
+  - Reuniões:
+    - Dailies: "Reunioes/Dailies.md"
+    - Dinâmicas: "Reunioes/Dinamicas.md"
+    - Treinamentos: "Reunioes/Treinamentos.md"
+
 
 extra_css:
   - "styles/header.css"
