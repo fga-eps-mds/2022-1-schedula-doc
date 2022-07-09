@@ -18,3 +18,5 @@ nav:
 extra_css:
   - "styles/header.css"
   - "styles/table.css"
+  - "styles/custom.css"
+
