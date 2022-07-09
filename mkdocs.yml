@@ -7,7 +7,10 @@ nav:
   - Home: 'index.md'
   - "Lean Inception":
     - 'Foo': 'Lean Inception/Foo.md'
-  - Backlog: 'Backlog.md'
+  - "Modelagem Agil":
+    - "Epicos, Features, e Historias de Usuários": "Modelagem Agil/NiveisDeAbstracao.md"
+    - "Priorização": "Modelagam Agil/Priorizacao.md"
+    - Backlog: 'Modelagem Agil/Backlog.md'
   - Sobre: 'about.md'
   - Reuniões:
     - Dailies: "Reunioes/Dailies.md"
@@ -19,4 +22,3 @@ extra_css:
   - "styles/header.css"
   - "styles/table.css"
   - "styles/custom.css"
-
