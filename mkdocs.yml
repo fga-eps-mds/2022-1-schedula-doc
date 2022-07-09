@@ -5,9 +5,14 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - "Lean Inception":
-    - 'Foo': 'Lean Inception/Foo.md'
   - Sobre: 'about.md'
+  - "Lean Inception":
+    - 'Visão do produto': 'Lean Inception/VisaoDoProduto.md'
+    - 'É - Não é / Faz - Não faz': 'Lean Inception/ENaoeFazNaofaz.md'
+    - 'Objetivos do Negócio': 'Lean Inception/Objetivos.md'
+    - 'Personas': 'Lean Inception/Personas.md'
+    - 'Jornadas do usuário': 'Lean Inception/JornadaDoUsuario.md'
+    - 'Brainstorm': 'Lean Inception/Brainstorm.md'
   - Reuniões:
     - Dailies: "Reunioes/Dailies.md"
     - Dinâmicas: "Reunioes/Dinamicas.md"
