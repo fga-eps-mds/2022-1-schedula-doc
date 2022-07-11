@@ -16,6 +16,7 @@ nav:
     - Dailies: "Reunioes/Dailies.md"
     - Dinâmicas: "Reunioes/Dinamicas.md"
     - Treinamentos: "Reunioes/Treinamentos.md"
+  - "Como contribuir": 'politicas-de-contribuicao.md'
 
 
 extra_css:
