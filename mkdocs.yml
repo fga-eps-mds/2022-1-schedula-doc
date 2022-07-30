@@ -13,6 +13,7 @@ nav:
       - Backlog: "Modelagem Agil/Backlog.md"
   - "Gestão de Projeto":
       - "Plano de Gestão de Riscos": "Gestao/PlanoDeGestaoDeRiscos.md"
+      - "Plano de Custos": "Gestao/PlanoDeCustos.md"
   - Sobre: "about.md"
   - Reuniões:
       - Dailies: "Reunioes/Dailies.md"
