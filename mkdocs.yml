@@ -1,23 +1,24 @@
-site_name: Projeto agenda
+site_name: Schedula
 
 theme:
   name: material
 
 nav:
-  - Home: 'index.md'
+  - Home: "index.md"
   - "Lean Inception":
-    - 'Foo': 'Lean Inception/Foo.md'
+      - "Foo": "Lean Inception/Foo.md"
   - "Modelagem Agil":
-    - "Epicos, Features, e Historias de Usuários": "Modelagem Agil/NiveisDeAbstracao.md"
-    - "Priorização": "Modelagam Agil/Priorizacao.md"
-    - Backlog: 'Modelagem Agil/Backlog.md'
-  - Sobre: 'about.md'
+      - "Epicos, Features, e Historias de Usuários": "Modelagem Agil/NiveisDeAbstracao.md"
+      - "Priorização": "Modelagam Agil/Priorizacao.md"
+      - Backlog: "Modelagem Agil/Backlog.md"
+  - "Gestão de Projeto":
+      - "Plano de Gestão de Riscos": "Gestao/PlanoDeGestaoDeRiscos.md"
+  - Sobre: "about.md"
   - Reuniões:
-    - Dailies: "Reunioes/Dailies.md"
-    - Dinâmicas: "Reunioes/Dinamicas.md"
-    - Treinamentos: "Reunioes/Treinamentos.md"
-  - "Como contribuir": 'politicas-de-contribuicao.md'
-
+      - Dailies: "Reunioes/Dailies.md"
+      - Dinâmicas: "Reunioes/Dinamicas.md"
+      - Treinamentos: "Reunioes/Treinamentos.md"
+  - "Como contribuir": "politicas-de-contribuicao.md"
 
 extra_css:
   - "styles/header.css"
