@@ -6,7 +6,12 @@ theme:
 nav:
   - Home: "index.md"
   - "Lean Inception":
-      - "Foo": "Lean Inception/Foo.md"
+      - 'Visão do produto': 'Lean Inception/VisaoDoProduto.md'
+      - 'É - Não é / Faz - Não faz': 'Lean Inception/ENaoeFazNaofaz.md'
+      - 'Objetivos do Negócio': 'Lean Inception/Objetivos.md'
+      - 'Personas': 'Lean Inception/Personas.md'
+      - 'Jornadas do usuário': 'Lean Inception/JornadaDoUsuario.md'
+      - 'Brainstorm': 'Lean Inception/Brainstorm.md'
   - "Modelagem Agil":
       - "Epicos, Features, e Historias de Usuários": "Modelagem Agil/NiveisDeAbstracao.md"
       - "Priorização": "Modelagam Agil/Priorizacao.md"
