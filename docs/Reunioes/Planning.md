@@ -79,11 +79,7 @@ sugestões de melhorias porém nenhuma foi feita por parte deles.
 
 #### Pontos positivos
 
-* Foram estabelecidas as metas para a sprint 1.
-* Foram estabelecidas as atividades dessa sprint
-* Foi feito o planning poker para a sprint 1.
-* Foi dividido o trabalho entre os integrantes da equipe.
-* Foram criadas issues relacionadas ao desenvolvimento especifico de cada micro-serviço.
+* Grupo de MDS se propõe a melhorar a comunicação
 
 #### Pontos negativos
 
