@@ -2,6 +2,9 @@ site_name: Schedula
 
 theme:
   name: material
+  font:
+    text: Comfortaa
+
 
 nav:
   - Home: "index.md"
@@ -19,6 +22,8 @@ nav:
   - "Gestão de Projeto":
       - "Plano de Gestão de Riscos": "Gestao/PlanoDeGestaoDeRiscos.md"
       - "Plano de Custos": "Gestao/PlanoDeCustos.md"
+      - "Estrutura analítica do projeto": "Gestao/EAP.md"
+      - "Organização e Pessoas": "Gestao/OrganizacaoEPessoas.md"
   - Sobre: "about.md"
 
   - Reuniões:
