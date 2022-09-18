@@ -15,10 +15,12 @@ nav:
       - 'Personas': 'Lean Inception/Personas.md'
       - 'Jornadas do usuário': 'Lean Inception/JornadaDoUsuario.md'
       - 'Brainstorm': 'Lean Inception/Brainstorm.md'
-  - "Modelagem Agil":
+  - "Modelagem Ágil":
       - "Epicos, Features, e Historias de Usuários": "Modelagem Agil/NiveisDeAbstracao.md"
       - "Priorização": "Modelagam Agil/Priorizacao.md"
       - Backlog: "Modelagem Agil/Backlog.md"
+  - "Prototipação":
+      - "Prototipação de alta fidelidade": "Prototipacao/AltaFidelidade.md"
   - "Gestão de Projeto":
       - "Plano de Gestão de Riscos": "Gestao/PlanoDeGestaoDeRiscos.md"
       - "Plano de Custos": "Gestao/PlanoDeCustos.md"
