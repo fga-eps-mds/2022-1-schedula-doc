@@ -26,6 +26,7 @@ nav:
       - "Estrutura analítica do projeto": "Gestao/EAP.md"
       - "Organização e Pessoas": "Gestao/OrganizacaoEPessoas.md"
       - "Diagramas de Bancos de Dados": "Gestao/DiagramasDeBancosDeDados.md"
+      - "Documento de Arquitetura": "Gestao/DocumentoDeArquitetura.md"
   - Sobre: "about.md"
 
   - Reuniões:
