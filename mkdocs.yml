@@ -27,6 +27,7 @@ nav:
       - "Organização e Pessoas": "Gestao/OrganizacaoEPessoas.md"
       - "Diagramas de Bancos de Dados": "Gestao/DiagramasDeBancosDeDados.md"
       - "Documento de Arquitetura": "Gestao/DocumentoDeArquitetura.md"
+      - "Definição de Metodologias": "Gestao/Metodologias.md"
   - Sobre: "about.md"
 
   - Reuniões:
