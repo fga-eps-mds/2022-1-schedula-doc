@@ -48,3 +48,9 @@ Para a organização do projeto, utilizamos o zenhub, que é uma plataforma que 
 </div>
 
 Para a montagem de artefatos dinâmicos como plano de custos, utilizamos o google sheets, que é uma planilha eletrônica online.
+
+## Conhecimento da equipe
+
+Para termos uma noção inicial sobre conhecimento que nosso time possuía, fizemos uma planilha para estimar o nível de conhecimento de cada membro do time. Essa planilha nos ajudou a definir em que pontos deveriamos focar ao aplicar os dojos.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTYvsSFb31FJ0Z0eEMkZZG1lW5auxLNqGyCF1wv2p47IKlgsiROJ0Z76UeP4rHLlcXvCQWFurzE7EIq/pubhtml?widget=true&amp;headers=false" width="100%" height="450" frameborder="0"></iframe>
