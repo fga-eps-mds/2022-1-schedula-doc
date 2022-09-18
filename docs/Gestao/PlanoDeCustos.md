@@ -4,6 +4,7 @@
 | Data       | Versão | Descrição                    | Autor                   |
 | ---------- | ------ | ---------------------------- | ----------------------- |
 | 09/09/2022 | 0.2    | Atualização do documento     | Pedro Henrique          |
+
 ## Custo Médio Aluno Universidade Federal
 
 Observando o custo médio de um aluno de uma Universidade Federal no Brasil disponível em artigo publicado no jornal [O Globo](https://oglobo.globo.com/brasil/entenda-quanto-custa-um-aluno-numa-universidade-federal-brasileira-23666877) que está por volta de **R$: 3.000,00 (Três mil reais)** por mês foram estabelecidas as seguintes estimativas de custos mensais e diários:

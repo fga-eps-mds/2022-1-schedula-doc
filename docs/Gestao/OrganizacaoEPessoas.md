@@ -4,6 +4,7 @@
 | Data       | Versão | Descrição                    | Autor                   |
 | ---------- | ------ | ---------------------------- | ----------------------- |
 | 09/09/2022 | 0.1    | Criação do documento         | Pedro Henrique          |
+| 18/09/2022 | 0.2    | Adição do HeatMap de horários| Pedro Henrique          |
 
 ## Introdução
 
@@ -13,7 +14,7 @@ No decorrer do desenvolvimento do projeto, faz-se muito importante que a organiz
 
 Ao inicio do projeto, foi feito um levantamento de disponibilidade de horários dos membros do time, para que assim fosse possível definir um horário em comum que fosse o mais adequado possível para que todos os membros do grupo pudessem participar das reuniões sem nenhum tipo de problema.
 
-__Iframe aq__
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9DWZtelwIivdTScFMUG9VrNm5xLWHeftgg3-VdQW-b-LxW34FoEMcXPji_1c7ff_jP2gOMrkUPCAk/pubhtml?widget=true&amp;headers=false" width="100%" height="450" frameborder="0"></iframe>
 
 ## Comunicação
 
@@ -29,7 +30,7 @@ Já, quanto a reuniões:
 
 - Discord (videoconferência)
 - Teams (videoconferência)
-- Jitsu (videoconferência)
+- Jitsi (videoconferência)
 
 ## Ferramentas de organização
 
@@ -47,3 +48,9 @@ Para a organização do projeto, utilizamos o zenhub, que é uma plataforma que 
 </div>
 
 Para a montagem de artefatos dinâmicos como plano de custos, utilizamos o google sheets, que é uma planilha eletrônica online.
+
+## Conhecimento da equipe
+
+Para termos uma noção inicial sobre conhecimento que nosso time possuía, fizemos uma planilha para estimar o nível de conhecimento de cada membro do time. Essa planilha nos ajudou a definir em que pontos deveriamos focar ao aplicar os dojos.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTYvsSFb31FJ0Z0eEMkZZG1lW5auxLNqGyCF1wv2p47IKlgsiROJ0Z76UeP4rHLlcXvCQWFurzE7EIq/pubhtml?widget=true&amp;headers=false" width="100%" height="450" frameborder="0"></iframe>
