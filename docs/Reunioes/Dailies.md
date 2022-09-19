@@ -73,3 +73,101 @@ Em nosso projeto foi utilizado um **Bot** via **Discord** para que o mesmo diari
 | Bruno | 31-07-2022 |  Esclareci dúvidas com o Matheus e fiz o PR do endpoint de deletar. |  Nada. |  Prova de MD2 amanhã e quase não ter ficado em casa hoje. |
 | Guilherme | 31-07-2022 |  pareamento com o bruno para tentar terminar a endpoint de editar usuários. |   tentar arrumar o endpoint de editar usuários. |  tempo e descobrir o que  está causando "'DeclarativeMeta' object is not subscriptable" quando vou testar o endpoint no swagger. |
 | Nicolas | 31-07-2022 |  nada |  finalização dos endpoints de categoria |  problemas familiares |
+| Davi | 01-08-2022 |  nada |  finalização dos endpoint de problemas  |  não |
+| Nicolas | 01-08-2022 |  finalização dos endpoints de categoria |  nada |  não |
+| Matheus | 04-08-2022 |  Revisei  PRs do Nicolas e Davi e refatorei os códigos do detalhador de chamados |  Adicionar Pipeline de CI e CD no detalhador de chamados |  Não |
+| Nicolas | 04-08-2022 |  nada  |  finalizar os endpoints de problema e fazer o PR. Assistir o dojô sobre testes e iniciar a implementação dos testes para os endpoints de categoria  |  não |
+| Algusto | 04-08-2022 |  Resolvi problemas com o Git e desenvolvi implementações pra issue 5 |  Finalizar a issue 5 e a issue 3. |  Pouco tempo livre |
+| Rodrigo | 04-08-2022 |  Iniciei desenvolvimento do modal de edição e cadastro de tipo, também iniciei a integração com o back da lista de categorias, além de fazer algumas alterações no menu. |  Continuar a confecção dos modais, parear com o Geovani sobre a lista de tipos. |  Não |
+| Samuel | 04-08-2022 |  Ajudei o giovanni e o Davi com assuntos relacionaos respectivamente ao front-end e ao Docker |  irei enviar os resultados das etapas 7, 8 e 9 para o lean inception |  Nenhum |
+| Giovanni | 04-08-2022 |  Nada |  irei parear com o rodrigo para ligar as telas de categoria de problema com a tela de problemas |  Nenhum |
+| Davi | 04-08-2022 |  reunião com o Samuel pra resolver a questão do docker n buildar na minha máquina(resolvemos) |  finalizando as isues de problema |  aula o dia todo |
+| Bruno | 04-08-2022 |  nada |  Tentando finalizar endpoint editar e estudando a parte de testes |  Nenhum |
+| Nicolas | 05-08-2022 |  fiz o PR com os endpoints de problema e adicionei o buscar problema por id de categoria  |  nada  |  nenhum |
+| Rodrigo | 05-08-2022 |  Trabalhei no desenvolvimento da issue 9. |  Enviar PR da issue 9, rebase com a develop. |  Não |
+| Guilherme | 05-08-2022 |  Trabalhei na issue de editar usuário . |  terminei a endpoint de editar usuário e estou estudando front e testes. |  Problemas no PC |
+| Roberto | 06-08-2022 |  Revisei PRs do Front |  melhorar documentação no Zenhub |  Não |
+| Rodrigo | 06-08-2022 |  Pareamento com MDS, enviei PR e fiz rebase com develop. |  Iniciar issue da sprint nova, concertar o PR. |  Não |
+| Giovanni | 06-08-2022 |  Pareamento com MDS e enviei PR. |  nada. |  Não |
+| Matheus | 07-08-2022 |  Trabalhei na adição do CORs no backend |  Resolver problemas de CORS, Finalizar CI do repositório e ajustar deploy do backend |  Nenhum |
+| Guilherme | 07-08-2022 |  Tentando mexer no front |  tentar fazer a página de categorias  |  Tempo |
+| Algusto | 07-08-2022 |  Nada |  Nada |  Problemas com meu computador |
+| Matheus | 09-08-2022 |  Apresentei a apresentação com o cliente, Planning e também trabalhei nos ajustes do deploy do Backend |  Ajustar deploy do backend |  Nenhum |
+| Roberto | 09-08-2022 |  Criação das telas de cidade e posto de trabalho no protótipo do figma, reunião com o cliente e validação destas telas, Inserção de prints destes protótipos as histórias de usuários, Planning e auxilio aos MDS |  Criação/especificação das issues referentes as telas aprovadas pelo cliente |  Nenhum |
+| Samuel | 09-08-2022 |  Participei da reunião semanal, criei formulário de validação de telas |  Nada |  Nenhum |
+| Algusto | 09-08-2022 |  Realizei um pareamento com os EPS Pedro e Roberto, para o desenvolvimento da tela de Listagem de Usuários. |  Realizar a estilização da tela de Listagem de Usuários |  Nenhum |
+| Rodrigo | 09-08-2022 |  nada. |  Concertar oq tiver que ser concertado. |  não |
+| Nicolas | 09-08-2022 |  nada  |  alterações solicitadas no PR  |  tempo |
+| Guilherme | 09-08-2022 |  Participei da reunião semanal,  arrumei o PR de editar usuário e enviei para avaliar  |  Nada |  Tempo, problemas no vscode |
+| Roberto | 10-08-2022 |  Refatorei o PR do Gestor de usuários e refiz o editar problema do detalhador de chamados |  Ajudar no deploy do back |  Nada |
+| Rodrigo | 10-08-2022 |  concertei oque tinha que ser concertado. |  Iniciar desenvolvimento issue 26 cadastro e edição de cidades |  Não |
+| Samuel | 10-08-2022 |  Revisei PRs |  procurei por soluções para fazer  o deploy do back e revisei PRs tanto do front quanto to back-end |  Nenhum |
+| Giovanni | 11-08-2022 |  trabalhei no pr da issue 8 |  finalizar o envio das issues 7, 8, 9 |  Nenhum |
+| Rodrigo | 12-08-2022 |  nada |  Integração página tipos. |  não. |
+| Algusto | 12-08-2022 |  Nada |  Primeiro contato com a integração entre front e back |  Tempo |
+| Bruno | 12-08-2022 |  Tentei fazer os testes dos endpoints |  Entrei em call com os EPS para resolver problemas nos testes. Tentar finalizar testes |  Nenhum |
+| Rodrigo | 13-08-2022 |  início integação tela tipos. |  finalizar integrações. |  não. |
+| Bruno | 13-08-2022 |  Entrei em call com os EPS para resolver problemas nos testes. Trabalhei nos testes endpoints do gestor usuario |  Terminei testes endpoints |  Nenhum |
+| Roberto | 14-08-2022 |  Ajudei os MDS em call no discord, revisei PRs e refatorei códigos |  Novas refatorações, revisões de PRs e ajudar os MDS  |  Nenhum |
+| Matheus | 14-08-2022 |  Revisei PRs, trabalhei na refatoração e finalizando o deploy do backend |  Ajustes na integração do backend em produção |  Nenhum |
+| Samuel | 15-08-2022 |  Ajudei o algusto e pareei com outros EPS |  participei da reunião com os clientes |  nenhum |
+| Davi | 16-08-2022 |  participei da reuniao com os clientes |  Nada |  Nenhum |
+| Nicolas | 16-08-2022 |  participei das reuniões  |  criar banco do gerenciador de localidades  |  não |
+| Samuel | 16-08-2022 |  Participei da reunião com clientes, levantei do levantamento de requisitos |  nada |  nenhum |
+| Bruno | 16-08-2022 |  Nada |  Tentando ajustar endpoint editar usuário |  Nenhum |
+| Pedro | 16-08-2022 |  Fiz ajustes nas configurações do deploy |  Pareei com um dev do front e fiz ajustes no protótipo do figma |  Não |
+| Giovanni | 16-08-2022 |  participei da reunião |  nada |  Nenhum |
+| Matheus | 17-08-2022 |  Trabalhei na criação do template do Gerenciador de localidades junto ao Roberto e também comecei a configurar o CI/CD do mesmo |  Finalizar junto ao Roberto a parte do CI/CD do Gerenciador de localidades |  Nenhum |
+| Roberto | 17-08-2022 |  Junto ao Matheus modelamos o banco e criamos a model e o template do gerenciador de localidades |  Finalizar o template do gerenciador de localidades junto do Matheus finalizando o CI/CD  |  Nenhum |
+| Samuel | 17-08-2022 |  Nada |  Revisarei PRs |  Nenhum |
+| Algusto | 17-08-2022 |  nada |  Resolver a issue #41  |  Problemas com o modulo nextjs-progressbar |
+| Nicolas | 17-08-2022 |   nada |  Iniciar a issue #3 no back |  nenhum |
+| Rodrigo | 17-08-2022 |  nada |  nada |  Estou de mudança, volto a estar disponível quinta a noite |
+| Nicolas | 18-08-2022 |  comecei a issue #3 do back, fiz o endpoint de cadastro de workstation  |  fazer os testes do endpoint de cadastro e começar a issue #5 (buscar workstation)  |  não |
+| Rodrigo | 18-08-2022 |  nada |  Organizar projeto, parear com o time questões relevantes. |  Não |
+| Bruno | 18-08-2022 |  Trabalhei na issue de ajustar endpoint editar |  Finalizei issue editar e fiz o PR |  Nenhum |
+| Davi | 18-08-2022 |  comecei a #issue 2, fiz o endpoint de cadastro de cidades |  fazer os testes de endpoint de cadastro |  Tive prova hoje e apresentação de trabalho quarta. |
+| Davi | 19-08-2022 |  issue 2 e 4 de cidades finalizada, iniciando a 6 e 8 |  reuniao com a equipe e finalizando as issues 2 e 4 |  estagio e aulas |
+| Rodrigo | 19-08-2022 |  Finalizar tela de cidade |  reuniao com o time. |  nada |
+| Nicolas | 19-08-2022 |  comecei os testes do gerenciador de localidades (post workstation) |  finalizar os testes e a issue 3, iniciar a issue 5 |  tive que fazer um teste pra um processo seletivo que me tomou 2h ontem a noite e não consegui fazer o que tinha planejado |
+| Pedro | 19-08-2022 |  Fiz ajustes nas configurações do deploy |  Pareei com um dev do front e fiz ajustes no protótipo do figma |  Não |
+| Matheus | 19-08-2022 |  Trabalhei na criação do template do Gerenciador de localidades junto ao Roberto e também comecei a configurar o CI/CD do mesmo |  Finalizar junto ao Roberto a parte do CI/CD do Gerenciador de localidades |  Nenhum |
+| Giovanni | 19-08-2022 |  Nada |  reuniao com o time. |  nada |
+| Rodrigo | 20-08-2022 |  Incluir integração com exclusão na tela de cidades |  Desenvolvimento da tela de cidades |  não |
+| Guilherme | 20-08-2022 |  terminei de criar a tela de posto de trabalho e comecei a fazer as partes de cadastrar e editar  |  terminando a tela de posto de trabalho  |  problemas para usar o GitHub |
+| Algusto | 20-08-2022 |  Nada |  Iniciar o desenvolvimento da issue 44 |  nenhum |
+| Nicolas | 20-08-2022 |  ajustes na issue 3 |  finalização das issues 3, 5 e 7 |  não |
+| Bruno | 20-08-2022 |  Modifiquei endpoint editar do gestor de usuários |  Fiz o PR do editar usuário e tentando terminar o get do localidades workstation |  Nenhum |
+| Bruno | 21-08-2022 |  Fiz os PRs do editar usuário e do get workstation |  Nada |  Estudar para a prova dessa semana e trabalhos de outras matérias |
+| Nicolas | 22-08-2022 |  ajustes nos endpoints de workstation |  reunião com PO e escrita das US |  nenhum |
+| Davi | 22-08-2022 |  nada  |  formulação da US e reunião com o PO |  nenhum |
+| Guilherme | 22-08-2022 |  terminei de arrumar a tela de posto e comecei a fazer a tela de cadastrar posto |  tentando arrumar a tela de cadastro como representado no protótipo  |  tempo |
+| Samuel | 23-08-2022 |  participei da reunião semanal e levantei requisitos para a história de chamados |  irei parear com os EPS | nenhum |
+| Nicolas | 23-08-2022 |  participei da reunião semanal e iniciei a escrita da US de evento com os outros MDS |  começar alterações na workstation para incluir o campo telefone  |  nenhum |
+| Davi | 23-08-2022 |  participei da reunião, iniciamos a criação da escrita da US |  começar as issues de cadastro de chamado  |  prova amanhã |
+| Pedro | 23-08-2022 |  Fiz ajustes nas configurações do deploy |  Pareei com um dev do front e fiz ajustes no protótipo do figma |  Não |
+| Rodrigo | 24-08-2022 |  Iniciamos escrita de US |  Enviar US para validação, iniciar prototipação da página de registro de eventos. |  não. |
+| Nicolas | 25-08-2022 |  Continuei trabalhando para arrumar o campo phone na workstation |  Fazer os testes para contemplar as alterações nos endpoints de workstation e fazer o PR dessas alterações  |  demandas de outras matérias |
+| Rodrigo | 25-08-2022 |  Desenvolvimento figma. |  Desenvolvimento da tela de Posto de Trabalho. |  Não. |
+| Davi | 25-08-2022 |  Nada |  Nada |  Tive prova hoje |
+| Nicolas | 26-08-2022 |  arrumei o endpoint de deletar workstation para apagar os telefones também e tentei arrumar o de editar.  |  finalizar o endpoint de editar e atualizar os testes pra contemplar os telefones  |  não estou conseguindo editar os telefones cadastrados pra uma workstation usando a propria lógica de ORM do sql alchemy, estou pensando em fazer a edição direto na tabela de telefones |
+| Rodrigo | 26-08-2022 |  Trabalhei no posto de trabalho |  Terminar cadastro de posto de trabalho |  não tô conseguindo fazer o botão de + telefone incluir mais campos para telefones |
+| Rodrigo | 27-08-2022 |  Não consegui finalizar o posto de trabalho. |  concertar a listagem de telefones ao editar, que não tá mostrando os já cadastrados. |  Quando faço rebase com a develop, não consigo fazer push por conta dos testes, n sei o problema. Mas isso não impede de trabalhar na branch, só n fazer o rebase até tudo for concluído. |
+| Pedro | 27-08-2022 |  Fiz ajustes nas configurações do deploy |  Pareei com um dev do front e fiz ajustes no protótipo do figma |  Não |
+| Rodrigo | 29-08-2022 |  Concertei listagem de telefones, Posto de trabalho quase completo. |  Fiz o pull request, componentes funcionando. Tive que fazer o rebase direto pelo github, pois minha máquina não está realizando os testes adequadamente. |  Não consigo fazer push direito, os testes barram tudo mas rodam normalmente no ambiente dos repositórios. |
+| Nicolas | 30-08-2022 |  reuniões e início do levantamento de requisitos com o PO  |  escrever US e validar com o PO |  nenhum |
+| Nicolas | 31-08-2022 |  escrita da história de usuário |  Iniciar endpoint de autenticação |  demandas de outras matérias |
+| Algusto | 31-08-2022 |  Validações com o usuário |  Criar tela de login |  Nada |
+| Davi | 31-08-2022 |  validação das histórias  |  planing pocker  |  nenhum |
+| Guilherme | 31-08-2022 |  nada  |  planning pocker e analisar o código de chamados para tentar montar o autocomplete |  demanda de outras matérias e tempo |
+| Bruno | 31-08-2022 |  tentei arrumar o workstation, não obtive secesso |  planing poker |  Não consigo descobrir pq os testes do workstation no git dão errado |
+| Nicolas | 01-09-2022 |  iniciei o endpoint de autenticação |  finalizar o endpoint de autenticação e os testes  |  nenhum |
+| Algusto | 01-09-2022 |  Iniciei a criação da tela de login |  Finalizar a tela de login |  nenhum |
+| Matheus | 01-09-2022 |  Ajustes no deploy do backend |  Trabalhei no código |  Nenhum |
+| Rodrigo | 02-09-2022 |  Estudo de como abordar a questão de verificações |  Iniciar desenvolvimento do controle de acesso |  ainda me sinto pouco confiante. |
+| Algusto | 03-09-2022 |  Estudo de autenticação e implementação de alguns recursos no procedimento de login |  Pareamento com o Samuel para solucionar problemas relacionados a autenticação  |   Pouco conhecimento no assunto de autenticação |
+| Nicolas | 04-09-2022 |  finalização do endpoint de autenticação |  gerência de acesso aos endpoints de usuário |  nenhum |
+| Nicolas | 07-09-2022 |  comecei a gerência de acesso nos endpoints de chamado |  finalizar a gerência de acesso e testes no endpoints de chamado |  não |
+| Nicolas | 08-09-2022 |  finalizei a gerência de acesso aos endpoints de chamado  |  nada  |  não |
+| Pedro | 08-09-2022 |  Fiz ajustes nas configurações do deploy |  Pareei com um dev do front e fiz ajustes no protótipo do figma |  Não |
+| Matheus | 08-09-2022 |  Ajustes no deploy do backend |  Trabalhei no código |  Nenhum |
