@@ -5,25 +5,29 @@ theme:
   font:
     text: Comfortaa
 
-
 nav:
   - Home: "index.md"
   - "Lean Inception":
-      - 'Visão do produto': 'Lean Inception/VisaoDoProduto.md'
-      - 'É - Não é / Faz - Não faz': 'Lean Inception/ENaoeFazNaofaz.md'
-      - 'Objetivos do Negócio': 'Lean Inception/Objetivos.md'
-      - 'Personas': 'Lean Inception/Personas.md'
-      - 'Jornadas do usuário': 'Lean Inception/JornadaDoUsuario.md'
-      - 'Brainstorm': 'Lean Inception/Brainstorm.md'
-  - "Modelagem Agil":
+      - "Visão do produto": "Lean Inception/VisaoDoProduto.md"
+      - "É - Não é / Faz - Não faz": "Lean Inception/ENaoeFazNaofaz.md"
+      - "Objetivos do Negócio": "Lean Inception/Objetivos.md"
+      - "Personas": "Lean Inception/Personas.md"
+      - "Jornadas do usuário": "Lean Inception/JornadaDoUsuario.md"
+      - "Brainstorm": "Lean Inception/Brainstorm.md"
+  - "Modelagem Ágil":
       - "Epicos, Features, e Historias de Usuários": "Modelagem Agil/NiveisDeAbstracao.md"
       - "Priorização": "Modelagam Agil/Priorizacao.md"
       - Backlog: "Modelagem Agil/Backlog.md"
+  - "Prototipação":
+      - "Prototipação de alta fidelidade": "Prototipacao/AltaFidelidade.md"
   - "Gestão de Projeto":
       - "Plano de Gestão de Riscos": "Gestao/PlanoDeGestaoDeRiscos.md"
       - "Plano de Custos": "Gestao/PlanoDeCustos.md"
       - "Estrutura analítica do projeto": "Gestao/EAP.md"
       - "Organização e Pessoas": "Gestao/OrganizacaoEPessoas.md"
+      - "Diagramas de Bancos de Dados": "Gestao/DiagramasDeBancosDeDados.md"
+      - "Documento de Arquitetura": "Gestao/DocumentoDeArquitetura.md"
+      - "Definição de Metodologias": "Gestao/Metodologias.md"
   - Sobre: "about.md"
 
   - Reuniões:
